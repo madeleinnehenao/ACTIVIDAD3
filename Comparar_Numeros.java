@@ -94,6 +94,5 @@ public class Comparar_Numeros extends JFrame{
         
         boton.addActionListener(oyenteDeAccion);
     }
-
     
 }
