@@ -89,8 +89,8 @@ public class pago_Matricula extends JFrame {
         SOL=new JTextArea();
         SOL.setBounds(310, 300, 200, 100);
         SOL.setPreferredSize(new Dimension(600,70));
-        SOL.setLineWrap(true);//Eliminar esta
-        SOL.setWrapStyleWord(true);
+        SOL.setLineWrap(true);
+        SOL.setWrapStyleWord(true);//Evita que las palabras se corten,realizando el salto de linea
         panel.add(SOL);
         }    
  
