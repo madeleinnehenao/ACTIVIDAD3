@@ -8,7 +8,7 @@ package ecuacion;
  *
  * @author PAULINA HENAO GARCIA
  */
-public class Main_ECUACION {
+public class ECUACION {
 
     public static void main(String[] args) {
         Ecuacion_Grado2 E= new  Ecuacion_Grado2();
