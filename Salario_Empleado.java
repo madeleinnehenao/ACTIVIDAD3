@@ -12,11 +12,11 @@ import java.awt.event.*;
  */
 public class Salario_Empleado extends JFrame {
     
-    JPanel panel;
-    JLabel NOMBRE,SALARIOBASIC,HORASMES;
-    JTextField Name,Salario,HorasMes;
-    JButton BCALCULAR,BBORRAR,BCERRAR;
-    JTextArea SOLUCION;
+    private JPanel panel;
+    private JLabel NOMBRE,SALARIOBASIC,HORASMES;
+    private JTextField Name,Salario,HorasMes;
+    private JButton BCALCULAR,BBORRAR,BCERRAR;
+    private JTextArea SOLUCION;
     
     public void Salario_Empleado(){
     
