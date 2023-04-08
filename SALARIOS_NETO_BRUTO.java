@@ -18,7 +18,7 @@ public class SALARIOS_NETO_BRUTO extends JFrame {
     private JButton BCALCULAR,BBORRAR,BCERRAR;
     private JTextArea SOLUCION;
     
-    public void Salario_Empleado(){
+    public void SALARIO_NETO_BRUTO(){
     
         setBounds(50,50,850,700);//Tamaño de mi Ventana.
         setLocationRelativeTo(null);//Centro mi ventana
@@ -29,7 +29,7 @@ public class SALARIOS_NETO_BRUTO extends JFrame {
     
     public void Mostrar_Resultados(){
     
-        Salario_Empleado();
+        SALARIO_NETO_BRUTO();
         PANEL();
         ETIQUETAS();
         CAJAS_TEXTO();
