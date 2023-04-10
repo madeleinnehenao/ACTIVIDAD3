@@ -112,6 +112,7 @@ public class MayorValor extends JFrame{
             @Override
             public void actionPerformed(ActionEvent e){
                 Resultado.setText("");
+                VIngresados.setText("");
                 VText.setText("");
                 Resultado.setVisible(false);
                 VText.setVisible(false);
